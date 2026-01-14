@@ -1,0 +1,41 @@
+{
+  "title": "test",
+  "key": "C",
+  "meter": "6/8",
+  "bar": [
+    {
+      "note": [
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        },
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        },
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        },
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        },
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        },
+        {
+          "value": "1",
+          "type": 8,
+          "pitch": ""
+        }
+      ]
+    }
+  ]
+}

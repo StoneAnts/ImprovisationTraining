@@ -1,0 +1,23 @@
+export const NOTE_TYPE = {
+  WHOLE_NOTE: 1,
+  HALF_NOTE: 2,
+  QUARTER_NOTE: 4,
+  EIGHTH_NOTE: 8,
+  SIXTEENTH_NOTE: 16,
+  
+  
+    DOUBLE_DOTTED_NOTE: '9',
+  DOTTED_HALF_NOTE: '10',
+  DOTTED_QUARTER_NOTE: '11',
+  DOTTED_EIGHTH_NOTE: '12',
+  DOTTED_SIXTEENTH_NOTE: '13',
+  //REST: "20",
+}
+
+export const PITCH = {
+  DOUBLE_LOW: '1',
+  LOW: '2',
+  MIDDLE: '3',
+  HIGH: '4',
+  DOUBLE_HIGH: '5',
+}

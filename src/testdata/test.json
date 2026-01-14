@@ -1,0 +1,156 @@
+{
+  "title": "test",
+  "key": "C",
+  "meter": "4/4",
+  "bar": [
+    {
+      "note": [
+        {
+          "value": "1",
+          "type": 1,
+          "pitch": "5"
+        }
+      ]
+    },
+    {
+      "note": [
+        {
+          "value": "1",
+          "type": 2,
+          "pitch": "5"
+        },
+        {
+          "value": "1",
+          "type": 4,
+          "pitch": "",
+          "tie": "start"
+        },
+        {
+          "value": "1",
+          "type": 4,
+          "pitch": "",
+          "tie": "end"
+        }
+      ]
+    },
+    {
+      "note": [
+        {
+          "value": "1",
+          "type": 4,
+          "pitch": "1",
+          "slur": "start"
+        },
+        {
+          "value": "5",
+          "type": 4,
+          "pitch": "2"
+        },
+        {
+          "value": "5",
+          "type": 16,
+          "pitch": "1"
+        },
+        {
+          "value": "5",
+          "type": 16,
+          "pitch": "2"
+        },
+        {
+          "value": "5",
+          "type": 8,
+          "pitch": "5"
+        },
+        {
+          "value": "3",
+          "type": 4,
+          "slur": "end"
+        }
+      ]
+    },
+    {
+      "note": [
+        {
+          "value": "2",
+          "type": 4
+        },
+        {
+          "value": "5",
+          "type": 8
+        },
+        {
+          "value": "5",
+          "type": 8
+        },
+        {
+          "value": "5",
+          "type": 8
+        },
+        {
+          "value": "5",
+          "type": 8
+        },
+        {
+          "value": "1",
+          "type": 4
+        }
+      ]
+    },
+    {
+      "note": [
+        {
+          "value": "2",
+          "type": 4
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        },
+        {
+          "value": "5",
+          "type": 16
+        }
+      ]
+    }
+  ]
+}
